@@ -1,2 +1,2 @@
 # Pizza
- Pizza web page
+ Initial start of a pizza web page.
